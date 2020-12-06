@@ -1,3 +1,3 @@
 # LP-Polytopes
 
-Este repositorio fue creado para la clase Combinatoria de politopos. 
+This is a project for the course Polytope Combinatorics. An simple elevator system is implemented and an optimal assignment is achieved using linear programming over the Birkhoff polytope.   
