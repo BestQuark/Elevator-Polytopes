@@ -37,7 +37,7 @@ def printElevador(numero_Personas, numero_Elevadores, numero_Pisos, posicion_Per
         print( "|"+' '*(4*(n_personas_repetidas-1))+"Piso "+str(i)+' '*(3-k) + "|"  + elevs +"| \n")
         print( "|"+' '*(4+4*(n_personas_repetidas-n_perPiso))+' ●  '*n_perPiso + "|" +elevs+"| \n")
         print( "|"+' '*(4+4*(n_personas_repetidas-n_perPiso))+'¬█¬ '*n_perPiso + "|" +elevs+"| \n")
-        print( "|"+' '*(4+4*(n_personas_repetidas-n_perPiso))+' n  '*n_perPiso+ "|" +elevs+"| \n")
+        print( "|"+' '*(4+4*(n_personas_repetidas-n_perPiso))+' Π  '*n_perPiso+ "|" +elevs+"| \n")
     print("|"+'_'*(5+4*n_personas_repetidas+6*numero_Elevadores)+"|")
     
 # Esta función resuelve el problema LP
